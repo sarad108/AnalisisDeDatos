@@ -31,7 +31,7 @@ Estos resultados nos proporcionan información valiosa para la toma de decisione
 ## Implementacion de DAX en Power BI
 En el informe de Power BI que desarrollé, implementé DAX (Data Analysis Expressions) para calcular y visualizar los promedios de edad, años de experiencia, nivel de pago y año de ingreso de los empleados. Este enfoque analítico permitió obtener una comprensión profunda de nuestra fuerza laboral y tomar decisiones basadas en datos sólidos.
 
-![Imagen POWER BI]()
+![Imagen POWER BI2](https://github.com/sarad108/AnalisisDeDatos/blob/91f3f99ca004c79e8a3c4a1bad28c52ee4068d19/Captura%20de%20pantalla%202023-10-11%20012257.png)
 
 ## Conclusiones
 Este proyecto ha arrojado luz sobre aspectos clave de nuestra organización. Hemos identificado una brecha salarial de género significativa, con salarios más bajos para las mujeres, lo que subraya la necesidad de abordar la equidad salarial. La mayoría de nuestros empleados poseen títulos de bachiller, seguidos de maestrías y otras titulaciones.
