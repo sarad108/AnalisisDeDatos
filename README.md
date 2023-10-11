@@ -7,9 +7,9 @@ Este proyecto se basa en un conjunto de datos que ofrece una visión integral de
 
 Las columnas de este conjunto de datos abarcan diversos aspectos, como la educación de los empleados, indicando el título, la institución y el campo de estudio. También se proporciona información sobre el año de ingreso de cada empleado, lo que nos da una idea de su antigüedad en la empresa. Además, se incluye la ubicación de los empleados, categorizados en diferentes niveles salariales, su edad y género, lo que fomenta el análisis de la diversidad en la empresa.
 
-Una columna adicional, "Alguna vez en la banca," indica si los empleados han estado sin trabajo asignado en algún momento. La cantidad de años de experiencia en su campo actual se refleja en la columna "Experiencia en el dominio actual." , la columna "Salir o no" es el objetivo del análisis y proporciona información sobre si un empleado podría dejar la empresa. Por último La columna "Genero" esta tiene un papel importante ya que nos puede ayudar a identificar la igualdad que hay en la empresa.
+Una columna adicional, "Alguna vez en la banca," indica si los empleados han estado sin trabajo asignado en algún momento. La cantidad de años de experiencia en su campo actual se refleja en la columna "Experiencia en el dominio actual.". Por último la columna "Salir o no" es el objetivo del análisis y proporciona información sobre si un empleado podría dejar la empresa.
 
-Este conjunto de datos es valioso para llevar a cabo diversos análisis relacionados con los recursos humanos y la fuerza laboral. Puede utilizarse para evaluar y mejorar la retención de empleados, analizar la estructura salarial, investigar la diversidad e inclusión en la empresa y examinar patrones de licencia. Investigadores, analistas de datos y profesionales de recursos humanos pueden obtener información crucial para tomar decisiones informadas y mejorar la gestión de la fuerza laboral.
+Este conjunto de datos es valioso para llevar a cabo diversos análisis relacionados con los recursos humanos y la fuerza laboral. Puede utilizarse para evaluar y mejorar la retención de empleados, analizar la estructura salarial, investigar la diversidad e inclusión en la empresa y examinar patrones. Investigadores, analistas de datos y profesionales de recursos humanos pueden obtener información crucial para tomar decisiones informadas y mejorar la gestión de la fuerza laboral.
 
 ![Imagen empleados](https://github.com/sarad108/AnalisisDeDatos/blob/5cca9201e101ea9517c34d4a2635bb7f7a0d2849/empleados.png)
 
@@ -47,9 +47,11 @@ Estas tecnologías nos ayudaron a hacer todo el proyecto, desde preparar los dat
 
 En el proceso de análisis de datos utilizando Power BI, he identificado varios hallazgos significativos que arrojan luz sobre la composición y las dinámicas.
 
-**-Diferencia Salarial de Género:** el análisis revela una brecha salarial significativa entre hombres y mujeres. En promedio, el salario para las mujeres es más bajo que el de los hombres. 
+**-Diferencias de Género:** el análisis revela una brecha de genero significativa entre hombres y mujeres. En promedio,el numero de mujeres empleadas es mucho más bajo que el de hombres. 
 
 **-Distribución de Educación:** La mayoría de los empleados tienen un título de bachiller, lo que constituye el nivel educativo más común en la fuerza laboral. La segunda titulación más frecuente es la maestría, seguida de otra titulación.
+
+**Nivel de pago:** Encontramos que la mayoría de el personal se encuentra en el 3 nivel de pago, lo que indica que el 1 y 2 nivel son para personal con un rango más alto.
 
 **-Predicción de Abandono:** el análisis predictivo sugiere que un número considerable de empleados, aproximadamente 1,600 personas, podrían optar por abandonar la empresa. 
 
@@ -83,7 +85,7 @@ Este proyecto no solo nos permitió adquirir conocimientos profundos en la gesti
 **Automatización de Procesos:** Automatizar la adquisición, limpieza y visualización de datos utilizando scripts y programación. Esto ahorraría tiempo y garantizaría que los análisis se puedan actualizar de manera eficiente a medida que lleguen nuevos datos.
 
 ## Conclusiones
-Este proyecto ha arrojado luz sobre aspectos clave de nuestra organización. He identificado una brecha salarial de género significativa, con salarios más bajos para las mujeres, lo que subraya la necesidad de abordar la equidad salarial. La mayoría de nuestros empleados poseen títulos de bachiller, seguidos de maestrías y otras titulaciones.
+Este proyecto ha arrojado luz sobre aspectos clave de nuestra organización. He identificado una brecha de género significativa, con mucho personal femenino mas bajo que masculino, lo que subraya la necesidad de abordar la equidad a la hora de contratar empleados. La mayoría de nuestros empleados poseen títulos de bachiller, seguidos de maestrías y otras titulaciones.
 
 Además, el análisis predictivo sugiere que un número considerable de empleados podría optar por abandonar la empresa en el futuro, lo que destaca la importancia de estrategias efectivas de retención y gestión del talento.
 
