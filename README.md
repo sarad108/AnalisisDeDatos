@@ -57,7 +57,7 @@ En el proceso de análisis de datos utilizando Power BI, he identificado varios 
 
 Estos resultados proporcionan información valiosa para la toma de decisiones y el desarrollo de políticas y estrategias futuras en la gestión de recursos humanos. 
 
-![Imagen POWER BI](https://github.com/sarad108/AnalisisDeDatos/blob/028d3b27a62d7ae5f8439f7426c772a9a78b2d12/Captura%20de%20pantalla%202023-10-11%20113820.png)
+![Imagen POWER BI](https://github.com/sarad108/AnalisisDeDatos/blob/a5e4386fb610f1ca6528ab41004070043956551c/Captura%20de%20pantalla%202023-10-11%20114042.png)
 
 ## Implementacion de DAX en Power BI
 En el informe de Power BI que desarrollé, implementé DAX (Data Analysis Expressions) para calcular y visualizar los promedios de edad, años de experiencia, nivel de pago y año de ingreso de los empleados. Este enfoque analítico permitió obtener una comprensión profunda de la fuerza laboral y tomar decisiones basadas en datos sólidos.
