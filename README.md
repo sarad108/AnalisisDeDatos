@@ -78,6 +78,7 @@ Este proyecto no solo nos permitió adquirir conocimientos profundos en la gesti
 **Ampliar Fuentes de Datos:** Se puede buscar más fuentes de datos para enriquecer nuestro análisis. Esto nos permitiría obtener una visión aún más completa de la fuerza laboral y sus dinámicas.
 
 **Mayor Profundidad de Análisis:** Aprovechar análisis más avanzados y modelos predictivos para obtener una comprensión más profunda de la retención de empleados y la gestión de recursos humanos. Esto podría incluir análisis de series temporales para predecir el abandono de empleados y modelos de machine learning para identificar factores clave.
+
 **Automatización de Procesos:** Automatizar la adquisición, limpieza y visualización de datos utilizando scripts y programación. Esto ahorraría tiempo y garantizaría que los análisis se puedan actualizar de manera eficiente a medida que lleguen nuevos datos.
 
 ## Conclusiones
