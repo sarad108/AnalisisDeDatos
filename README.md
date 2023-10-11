@@ -11,11 +11,12 @@ Una columna adicional, "Alguna vez en la banca," indica si los empleados han est
 
 Este conjunto de datos es valioso para llevar a cabo diversos análisis relacionados con los recursos humanos y la fuerza laboral. Puede utilizarse para evaluar y mejorar la retención de empleados, analizar la estructura salarial, investigar la diversidad e inclusión en la empresa y examinar patrones de licencia. Investigadores, analistas de datos y profesionales de recursos humanos pueden obtener información crucial para tomar decisiones informadas y mejorar la gestión de la fuerza laboral.
 
+![Imagen empleados](https://github.com/sarad108/AnalisisDeDatos/blob/5cca9201e101ea9517c34d4a2635bb7f7a0d2849/empleados.png)
+
 ## Objetivo
 El objetivo principal de este proyecto es utilizar el conjunto de datos de la fuerza laboral de la empresa para realizar un análisis integral que brinde información valiosa para la gestión de recursos humanos y la toma de decisiones estratégicas.
 Buscamos comprender los patrones clave relacionados con la retención de empleados, la estructura salarial, la diversidad de género y otros factores relevantes.
 
-![Imagen empleados](https://github.com/sarad108/AnalisisDeDatos/blob/5cca9201e101ea9517c34d4a2635bb7f7a0d2849/empleados.png)
 ## Descripción de la Problemática
 La organización se encuentra ante obstáculos en la retención de su personal y en la gestión de la diversidad, situaciones que pueden incidir en la eficacia y la satisfacción de los empleados. Es crucial detectar posibilidades de optimizar la distribución de salarios y fomentar un ambiente de trabajo que abogue por la inclusión.
 
