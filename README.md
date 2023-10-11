@@ -2,6 +2,15 @@
 ## Enlace del Google Slides
 https://docs.google.com/presentation/d/1uJKQIXbKvZbwmKvy-xLLnkA-57qkFIPD9iCrbzJSQAI/edit#slide=id.p
 
+## Descripción
+Este proyecto se basa en un conjunto de datos que ofrece una visión integral de los empleados de una empresa. Estos datos incluyen detalles sobre su educación, historial laboral, información demográfica y factores relacionados con su empleo. Para garantizar la privacidad de los empleados, los datos se han anonimizado, permitiendo al mismo tiempo obtener información valiosa sobre la fuerza laboral.
+
+Las columnas de este conjunto de datos abarcan diversos aspectos, como la educación de los empleados, indicando el título, la institución y el campo de estudio. También se proporciona información sobre el año de ingreso de cada empleado, lo que nos da una idea de su antigüedad en la empresa. Además, se incluye la ubicación de los empleados, categorizados en diferentes niveles salariales, su edad y género, lo que fomenta el análisis de la diversidad en la empresa.
+
+Una columna adicional, "Alguna vez en la banca," indica si los empleados han estado sin trabajo asignado en algún momento. La cantidad de años de experiencia en su campo actual se refleja en la columna "Experiencia en el dominio actual." , la columna "Salir o no" es el objetivo del análisis y proporciona información sobre si un empleado podría dejar la empresa. Por último La columna "Genero" esta tiene un papel importante ya que nos puede ayudar a identificar la igualdad que hay en la empresa.
+
+Este conjunto de datos es valioso para llevar a cabo diversos análisis relacionados con los recursos humanos y la fuerza laboral. Puede utilizarse para evaluar y mejorar la retención de empleados, analizar la estructura salarial, investigar la diversidad e inclusión en la empresa y examinar patrones de licencia. Investigadores, analistas de datos y profesionales de recursos humanos pueden obtener información crucial para tomar decisiones informadas y mejorar la gestión de la fuerza laboral.
+
 ## Objetivo
 El objetivo principal de este proyecto es utilizar el conjunto de datos de la fuerza laboral de la empresa para realizar un análisis integral que brinde información valiosa para la gestión de recursos humanos y la toma de decisiones estratégicas.
 Buscamos comprender los patrones clave relacionados con la retención de empleados, la estructura salarial, la diversidad de género y otros factores relevantes.
@@ -10,8 +19,27 @@ Buscamos comprender los patrones clave relacionados con la retención de emplead
 ## Descripción de la Problemática
 La organización se encuentra ante obstáculos en la retención de su personal y en la gestión de la diversidad, situaciones que pueden incidir en la eficacia y la satisfacción de los empleados. Es crucial detectar posibilidades de optimizar la distribución de salarios y fomentar un ambiente de trabajo que abogue por la inclusión.
 
-## Datos Utilizados
-Este proyecto fue una emocionante búsqueda a través de datos detallados de empleados. Comenzamos en Kaggle, limpiamos los datos y utilizamos Power BI para crear gráficos reveladores. Finalmente, compartimos nuestros resultados en GitHub para informar decisiones estratégicas en la gestión de recursos humanos.
+## Datos y Tecnologías Utilizados
+
+Utilizamos un conjunto de datos que contiene información detallada sobre los empleados, incluyendo su educación, experiencia laboral, ubicación, edad, nivel de pago, género, si alguna vez estuvo temporalmente sin trabajo asignado, La experiencia en años en el dominio de su cargo, y si en un futuro el empleado tiene pensado el abandonar la empresa.
+Los datos se han preparado y limpiado para el análisis, garantizando su integridad y calidad.
+
+Para llevar a cabo este proyecto, use diferentes herramientas tecnológicas:
+
+**Google Colab con Python:** Para programar y trabajar en el proyecto en línea sin preocuparnos por la configuración.
+
+**Pandas:** Una librería de Python que nos ayudó a organizar y limpiar nuestros datos. Imagina Pandas como una superherramienta para trabajar con información.
+
+**Power BI:** Esta es una herramienta de Microsoft que nos permitió crear gráficos y cuadros de mando geniales para mostrar nuestros resultados. Es como una varita mágica para hacer datos más fáciles de entender.
+
+**GitHub:** Usamos GitHub para guardar nuestros archivos y compartirlos. Fue como un diario digital que guardaba nuestros cambios y nos permitía trabajar en equipo.
+
+**Kaggle:** En Kaggle encontramos el tesoro:** ¡nuestro conjunto de datos! Kaggle es como una tienda gigante de datos y competencias en ciencia de datos.
+
+**Python y sus Amigos:** Además de Pandas, usamos otras herramientas de Python como NumPy, Matplotlib y Seaborn para hacer gráficos y explorar los datos.
+
+Estas tecnologías nos ayudaron a hacer todo el proyecto, desde preparar los datos hasta crear visualizaciones geniales.
+
 ![Imagen herramientas](https://github.com/sarad108/AnalisisDeDatos/blob/09be5dba291d83b0a132ce610c42b4555e32848a/Captura%20de%20pantalla%202023-10-10%20220740.png)
 
 ## Resultados e Interpretaciones
@@ -34,8 +62,8 @@ En el informe de Power BI que desarrollé, implementé DAX (Data Analysis Expres
 ![Imagen POWER BI2](https://github.com/sarad108/AnalisisDeDatos/blob/91f3f99ca004c79e8a3c4a1bad28c52ee4068d19/Captura%20de%20pantalla%202023-10-11%20012257.png)
 
 ## Conclusiones
-Este proyecto ha arrojado luz sobre aspectos clave de nuestra organización. Hemos identificado una brecha salarial de género significativa, con salarios más bajos para las mujeres, lo que subraya la necesidad de abordar la equidad salarial. La mayoría de nuestros empleados poseen títulos de bachiller, seguidos de maestrías y otras titulaciones.
+Este proyecto ha arrojado luz sobre aspectos clave de nuestra organización. He identificado una brecha salarial de género significativa, con salarios más bajos para las mujeres, lo que subraya la necesidad de abordar la equidad salarial. La mayoría de nuestros empleados poseen títulos de bachiller, seguidos de maestrías y otras titulaciones.
 
 Además, el análisis predictivo sugiere que un número considerable de empleados podría optar por abandonar la empresa en el futuro, lo que destaca la importancia de estrategias efectivas de retención y gestión del talento.
 
-Este proyecto representa un paso significativo hacia una gestión más efectiva de los recursos humanos y destaca el valor del análisis de datos para comprender en profundidad nuestra fuerza laboral y tomar medidas orientadas a la mejora y el éxito continuo.
+Este proyecto representa un paso significativo hacia una gestión más efectiva de los recursos humanos y destaca el valor del análisis de datos para comprender en profundidad la fuerza laboral y tomar medidas orientadas a la mejora y el éxito continuo.
