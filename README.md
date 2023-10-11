@@ -26,4 +26,4 @@ En el proceso de análisis de datos utilizando Power BI, hemos identificado vari
 
 Estos resultados nos proporcionan información valiosa para la toma de decisiones y el desarrollo de políticas y estrategias futuras en la gestión de recursos humanos. 
 
-
+![Imagen POWER BI]()
