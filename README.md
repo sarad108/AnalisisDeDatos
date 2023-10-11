@@ -58,9 +58,9 @@ Estos resultados proporcionan información valiosa para la toma de decisiones y 
 ![Imagen POWER BI](https://github.com/sarad108/AnalisisDeDatos/blob/442145091e2de824b9b76b0f67f6f2c0f5c96949/Captura%20de%20pantalla%202023-10-10%20225651.png)
 
 ## Implementacion de DAX en Power BI
-En el informe de Power BI que desarrollé, implementé DAX (Data Analysis Expressions) para calcular y visualizar los promedios de edad, años de experiencia, nivel de pago y año de ingreso de los empleados. Este enfoque analítico permitió obtener una comprensión profunda de nuestra fuerza laboral y tomar decisiones basadas en datos sólidos.
+En el informe de Power BI que desarrollé, implementé DAX (Data Analysis Expressions) para calcular y visualizar los promedios de edad, años de experiencia, nivel de pago y año de ingreso de los empleados. Este enfoque analítico permitió obtener una comprensión profunda de la fuerza laboral y tomar decisiones basadas en datos sólidos.
 
-![Imagen POWER BI2](https://github.com/sarad108/AnalisisDeDatos/blob/91f3f99ca004c79e8a3c4a1bad28c52ee4068d19/Captura%20de%20pantalla%202023-10-11%20012257.png)
+![Imagen POWER BI2](https://github.com/sarad108/AnalisisDeDatos/blob/127ac4df8e6f3e704082be989bd44a294ad390c2/Captura%20de%20pantalla%202023-10-11%20105912.png)
 
 ## Lecciones Aprendidas y Desafíos Enfrentados en el Proyecto 
 
