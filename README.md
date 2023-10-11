@@ -88,3 +88,6 @@ Este proyecto ha arrojado luz sobre aspectos clave de nuestra organización. He 
 Además, el análisis predictivo sugiere que un número considerable de empleados podría optar por abandonar la empresa en el futuro, lo que destaca la importancia de estrategias efectivas de retención y gestión del talento.
 
 Este proyecto representa un paso significativo hacia una gestión más efectiva de los recursos humanos y destaca el valor del análisis de datos para comprender en profundidad la fuerza laboral y tomar medidas orientadas a la mejora y el éxito continuo.
+
+## Enlace al datase de Kaggle
+https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
