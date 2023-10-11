@@ -11,4 +11,4 @@ La organización se encuentra ante obstáculos en la retención de su personal y
 
 ## Datos Utilizados
 Este proyecto fue una emocionante búsqueda a través de datos detallados de empleados. Comenzamos en Kaggle, limpiamos los datos y utilizamos Power BI para crear gráficos reveladores. Finalmente, compartimos nuestros resultados en GitHub para informar decisiones estratégicas en la gestión de recursos humanos.
-
+![Imagen de descripción]()
