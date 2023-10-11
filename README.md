@@ -78,11 +78,7 @@ Este proyecto no solo nos permitió adquirir conocimientos profundos en la gesti
 
 ## Futuras Oportunidades Y Mejoras
 
-**Ampliar Fuentes de Datos:** Se puede buscar más fuentes de datos para enriquecer nuestro análisis. Esto nos permitiría obtener una visión aún más completa de la fuerza laboral y sus dinámicas.
-
-**Mayor Profundidad de Análisis:** Aprovechar análisis más avanzados y modelos predictivos para obtener una comprensión más profunda de la retención de empleados y la gestión de recursos humanos. Esto podría incluir análisis de series temporales para predecir el abandono de empleados y modelos de machine learning para identificar factores clave.
-
-**Automatización de Procesos:** Automatizar la adquisición, limpieza y visualización de datos utilizando scripts y programación. Esto ahorraría tiempo y garantizaría que los análisis se puedan actualizar de manera eficiente a medida que lleguen nuevos datos.
+Me gustaría aprovechar análisis más avanzados y modelos predictivos para obtener una comprensión más profunda de lo que es el analisis de datos, pues ha sido un tema que verdaderamente he disfrutado aprender, espero poder seguir en este medio por mucho tiempo descubriendo y mejorando muchos mas conocimientos para asi poder mejorar todo aquello que me falta con el tiempo, pues aún tengo mucho por recorrer en este estudio del analisis de datos.
 
 ## Conclusiones
 Este proyecto ha arrojado luz sobre aspectos clave de nuestra organización. He identificado una brecha de género significativa, con mucho personal femenino mas bajo que masculino, lo que subraya la necesidad de abordar la equidad a la hora de contratar empleados. La mayoría de nuestros empleados poseen títulos de bachiller, seguidos de maestrías y otras titulaciones.
